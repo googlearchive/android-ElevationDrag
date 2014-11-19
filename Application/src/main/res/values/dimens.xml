@@ -15,9 +15,6 @@
  limitations under the License.
 -->
 <resources>
-    <string-array name="shapes">
-        <item>Circle</item>
-        <item>Rounded rectangle</item>
-        <item>Rectangle, circular shadow</item>
-    </string-array>
+    <dimen name="shape_size">96dp</dimen>
+    <dimen name="elevation_step">8dp</dimen>
 </resources>

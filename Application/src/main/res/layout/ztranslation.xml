@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- Copyright 2013 The Android Open Source Project
+ Copyright 2014 The Android Open Source Project
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -22,24 +22,12 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
 
-    <Spinner
-            android:id="@+id/shapes_spinner"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="30dp"
-            android:layout_marginRight="30dp"
-            android:layout_marginLeft="30dp"
-            android:layout_marginBottom="0dp"
-            android:layout_gravity="center_horizontal"/>
-
     <View
             android:id="@+id/circle"
             android:layout_width="@dimen/shape_size"
             android:layout_height="@dimen/shape_size"
-            android:layout_marginTop="80dp"
-            android:layout_marginBottom="60dp"
-            android:layout_gravity="center_horizontal"
-            android:background="@drawable/shape"/>
+            android:layout_gravity="center"
+            android:background="@color/color_1"/>
 
     <LinearLayout
             android:layout_margin="16dp"

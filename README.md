@@ -1,9 +1,6 @@
 Android ElevationDrag Sample
 ==============================
 
-Introduction
-------------
-
 This sample demonstrates a drag and drop action on different shapes. Elevation and
 z-translation are used to render the shadows and the views are clipped using different
 Outlines.
@@ -11,7 +8,7 @@ Outlines.
 Pre-requisites
 --------------
 
-- Android SDK (L Preview)
+- Android SDK (L Developer Preview)
 - Android Build Tools v20
 - Android Support Repository
 
@@ -36,7 +33,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 
-Copyright 2014 The Android Open Source Project
+Copyright 2014 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
