@@ -5,12 +5,32 @@ This sample demonstrates a drag and drop action on different shapes. Elevation a
 z-translation are used to render the shadows and the views are clipped using different
 Outlines.
 
+Introduction
+------------
+
+This sample demonstrates a drag and drop action on different shapes. Elevation and
+z-translation are used to render the shadows and the views are clipped using different
+Outlines.
+
+Elevation is considered the static or initial position of a view on the z axis, while
+translationZ exists for transient states, like animations.
+
+`Z = elevation + translationZ`
+
+See [Assign Elevation to Your Views][1] for more info.
+[1]:https://developer.android.com/training/material/shadows-clipping.html#Elevation
+
 Pre-requisites
 --------------
 
 - Android SDK v21
 - Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------

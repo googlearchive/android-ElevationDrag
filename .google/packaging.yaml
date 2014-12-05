@@ -5,8 +5,12 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [UI]
+categories:   [UI, Views]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-ElevationDrag
+level:        BEGINNER
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.view.View
 license: apache2
