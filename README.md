@@ -24,8 +24,8 @@ See [Assign Elevation to Your Views][1] for more info.
 Pre-requisites
 --------------
 
-- Android SDK v21
-- Android Build Tools v23.0.3
+- Android SDK 24
+- Android Build Tools v24.0.1
 - Android Support Repository
 
 Screenshots
@@ -54,7 +54,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 
-Copyright 2014 The Android Open Source Project, Inc.
+Copyright 2016 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
